@@ -1,0 +1,14 @@
+artifact_uri: /mnt/d/ML_Pipeline_Project/ML_ops_pipeline/ML_ops/mlruns/102394849362914300/79efa8621f1f4f9d8fcd7614fa073426/artifacts
+end_time: 1764137007819
+entry_point_name: ''
+experiment_id: '102394849362914300'
+lifecycle_stage: active
+run_id: 79efa8621f1f4f9d8fcd7614fa073426
+run_name: worried-zebra-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764136999883
+status: 3
+tags: []
+user_id: tyagi

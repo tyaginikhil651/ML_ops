@@ -1,0 +1,15 @@
+creation_timestamp: 1764137417602
+current_stage: Staging
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1764137417768
+model_id: ''
+name: my_model
+run_id: 79efa8621f1f4f9d8fcd7614fa073426
+run_link: ''
+source: /mnt/d/ML_Pipeline_Project/ML_ops_pipeline/ML_ops/mlruns/102394849362914300/79efa8621f1f4f9d8fcd7614fa073426/artifacts/lgbm_model
+status: READY
+status_message: null
+storage_location: /mnt/d/ML_Pipeline_Project/ML_ops_pipeline/ML_ops/mlruns/102394849362914300/79efa8621f1f4f9d8fcd7614fa073426/artifacts/lgbm_model
+user_id: null
+version: 1
